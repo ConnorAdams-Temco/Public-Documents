@@ -1,6 +1,9 @@
 [
   {
     "label": "Red Panda", "value": "red_panda"
+  },
+  {
+    "label": "KitKat", "value": "not_a_small_cat"
   }
 ]
 
