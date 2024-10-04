@@ -1,9 +1,9 @@
 [
   {
-    "label": "Red Panda", "value": "red_panda"
+    "label": "Red Panda", "value": "red_panda", "label2": "Not Red Panda"
   },
   {
-    "label": "KitKat", "value": "not_a_small_cat"
+    "label": "KitKat", "value": "not_a_small_cat", "label2": "Not KitKat"
   }
 ]
 
