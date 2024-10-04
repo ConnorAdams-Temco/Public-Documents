@@ -1,7 +1,6 @@
-{
-  "content": [
-    {
-      "value": "Red Panda", "label": "red_panda"
-    }
-  ]
-}
+[
+  {
+    "value": "Red Panda", "label": "red_panda"
+  }
+]
+
